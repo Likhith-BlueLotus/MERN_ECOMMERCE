@@ -14,10 +14,11 @@ JAKL represents a strategic leap in redefining the landscape of online shopping 
 - **Smart Recommendations**: Get personalized product recommendations tailored to your preferences.
 - **Transparent Cart Management**: Seamlessly manage your shopping cart with transparency and ease.
 
-![image](https://github.com/Likhith-BlueLotus/MERN-ECOMMERCE/assets/148641690/4e159666-32b7-4710-a423-5a99d649a024)
+![image](https://github.com/Likhith-BlueLotus/MERN_ECOMMERCE/assets/148641690/17b6038e-ad55-4ebe-ac39-529100f7697c)
 
-![image](https://github.com/Likhith-BlueLotus/MERN-ECOMMERCE/assets/148641690/d99cc42d-8e27-4211-bdde-ac08207d74fb)
+-----------------------------------------------------------------------------------------------------------------------
 
+![image](https://github.com/Likhith-BlueLotus/MERN_ECOMMERCE/assets/148641690/76092462-b63b-49d5-a692-fa91766098a6)
 
 ## Installation
 
