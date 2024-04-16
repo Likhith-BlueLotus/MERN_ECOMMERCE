@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(cors());
 
 // Database Connection With MongoDB
-mongoose.connect("mongodb+srv://likhithcs22:likhithcs22@cluster0.qh8blz4.mongodb.net/e-commerce");
+mongoose.connect("Your Connect Link");
 // paste your mongoDB Connection string above with password
 // password should not contain '@' special character
 
